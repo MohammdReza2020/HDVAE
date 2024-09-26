@@ -6,3 +6,15 @@ Remember to extract .rar files first
 Training results:
 ![image](https://github.com/user-attachments/assets/34377670-a21e-416b-91ce-66b77e4b7300)
 
+Unsupervised disentangled features:
+![image](https://github.com/user-attachments/assets/3f1d13db-f0b4-42b1-9e10-8a7a893a278f)
+
+Reconstruction Quality Metrics (PSNR & SSIM):
+![image](https://github.com/user-attachments/assets/e2c6fbd7-52c0-48b2-acb2-21b7dc8b913d)
+
+Visulization of Disentangled Hierarchies:
+![image](https://github.com/user-attachments/assets/df2c9b7e-0f71-4590-a4e7-af427d0fcfaf)
+
+
+
+
