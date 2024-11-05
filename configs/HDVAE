@@ -1,0 +1,31 @@
+# Config No.3
+# HDVAE = VanillaVAE3
+config = {
+    'model_params':{
+          'name': 'VanillaVAE3',
+          'in_channels': 3,
+          'latent_dim': 128, # 128, 256, 512
+    },
+    'data_params':{
+        'data_path': ".",
+        'train_batch_size': 64,
+        'val_batch_size':  64,
+        'patch_size': 64,
+        'num_workers': 4,
+    },
+    'exp_params':{
+        'LR': 0.0005, # MRH: it was 0.005 which I changed it to 0.0005 and logvar=NaN solved
+        'weight_decay': 0.0,
+        'scheduler_gamma': 0.95,
+        'kld_weight': 0.00025,
+        'manual_seed': 1265,
+    },
+    'trainer_params':{
+        'gpus': [0],
+        'max_epochs': 100,
+    },
+    'logging_params':{
+        'save_dir': "logs/",
+        'name': "VanillaVAE3"
+    }
+}
