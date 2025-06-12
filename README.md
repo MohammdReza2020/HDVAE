@@ -14,7 +14,7 @@ This paper introduces the Hierarchical Disentangled Variational Autoencoder (HDV
 **HELBO_v05_3LayerHierarchy_UMAP_BetaKLD_MNIST_Comparison_PSNR_SSIM_LOSS.ipynb**
 **HELBO_v06_3LayerHierarchy_UMAP_BetaKLD_MNIST_Comparison_disentanglementMetrics.ipynb**
 ----------------------------
-also for latent Traveral on CelebA, you can follow HDVAE_run.py
+Also for latent Traveral on CelebA, you can follow HDVAE_run.py
 
 Training results:
 *Hierarchical Representation*
