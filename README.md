@@ -18,10 +18,13 @@ also for latent Traveral on CelebA, you can follow HDVAE_run.py
 
 Training results:
 *Hierarchical Representation*
+
 ![1](https://github.com/user-attachments/assets/c3c8a6e4-e34d-494d-a4fa-a1451a3f5fe3)
 *Generalization*
+
 ![2](https://github.com/user-attachments/assets/cbcb8a26-14e0-49e0-9476-e15049f6cae1)
 *Disentanglement*
+
 ![3](https://github.com/user-attachments/assets/dc4ed554-57c2-40b7-b8ea-f13c3d9418f9)
 ![4](https://github.com/user-attachments/assets/03e75637-fba8-4b37-ab97-1556438b1285)
 ![5](https://github.com/user-attachments/assets/ce052e01-cf34-49fd-854b-400ded086392)
